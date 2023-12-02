@@ -20,3 +20,7 @@
 对于Eavg，因为和出射方向无关，所以重要性采样的avg算法和均一采样的一致；<br>
 因为表面normal的法线为(0,0,1)，所以转换坐标系时无需转到物体表面的tangent空间；<br>
 <img src="https://github.com/DarkSleeper/Games202-Homework/assets/48831197/1b521e0f-74b3-44d7-9133-7fa4183d9cfd" width=512>
+
+# 作业五
+需要注意采样点是否超出屏幕、物体id匹配、计算不应产生nan结果
+
