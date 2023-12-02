@@ -23,4 +23,8 @@
 
 # 作业五
 需要注意采样点是否超出屏幕、物体id匹配、计算不应产生nan结果
+不同场景的参数配置略有不同，pink_room场景的颜色权重应下调
+|  box  | pink room |
+|  ----  | ---- |
+| ![cornell_box](https://github.com/DarkSleeper/Games202-Homework/assets/48831197/3108c302-90f3-4b4c-8dc1-0b9f7f507e2d) | ![pink_room](https://github.com/DarkSleeper/Games202-Homework/assets/48831197/5b01f13c-2dcb-42e8-9a58-0566f09890f4) |
 
