@@ -15,4 +15,8 @@
 |  ----  | ---- | ---- |
 | <img src="https://github.com/DarkSleeper/Games202-Homework/assets/48831197/94d4cd0b-ed42-437d-92ce-39eea68a858c" width=256> | <img src="https://github.com/DarkSleeper/Games202-Homework/assets/48831197/ceda6dbd-1c9e-4738-a545-2d749f5a07bc" width=256><br>  | <img src="https://github.com/DarkSleeper/Games202-Homework/assets/48831197/136405e2-23c1-45eb-8ac5-47362d89374d" width=380> |
 
-
+# 作业四
+代码中手写微表面模型的DFG项；<br>
+对于Eavg，因为和出射方向无关，所以重要性采样的avg算法和均一采样的一致；<br>
+因为表面normal的法线为(0,0,1)，所以转换坐标系时无需转到物体表面的tangent空间；<br>
+<img src="https://github.com/DarkSleeper/Games202-Homework/assets/48831197/1b521e0f-74b3-44d7-9133-7fa4183d9cfd" width=512>
